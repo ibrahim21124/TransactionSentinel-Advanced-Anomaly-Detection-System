@@ -23,10 +23,13 @@ Follow these instructions to get TransactionSentinel up and running on your loca
 
    ```bash
    pip install -r requirements.txt
-
+   
 ## Usage
 1. Run the TransactionSentinel Application in Jupyter Notebook
 2. Monitor the output for detected anomalies and take appropriate actions
+
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements, bug reports, or new features, please open an issue or submit a pull request.
